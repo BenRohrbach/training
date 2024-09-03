@@ -7,9 +7,9 @@ This is a practice repo for learning to use Git.
 2. Create a new branch with your first and last name.
 - `git checkout -b <first name>_<last name>`
 - For example, `git checkout -b sean_fish`
-3. Create a new text file named `[current semester]_[first name]_[last name].txt`
+3. Create a new text file named `[current semester]/[last name]/[first name].txt`
 - In the text file, write your name, gt email, and GitHub.com username
-- `2024FALL_sean_fish.txt` for example
+- `2024FALL/fish/sean.txt` for example
 4. Commit your changes.
 - `git add .`
 - `git commit -m "a useful message"`
