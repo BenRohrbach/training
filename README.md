@@ -19,6 +19,6 @@ This is a practice repo for learning to use Git.
 - or try just `git push` and see what happens
 6. Submit a pull request
 - Under the pull requests tab on GitHub, select your branch to merge into main.
-7. Add sfish7 as a reviewer.
-8. Wait for a review.
+7. Add sfish7 and your neighbor as reviewers.
+8. Wait for a review. Review your neighbor.
 9. Upon approval, Squash and Merge changes.
